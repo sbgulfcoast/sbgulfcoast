@@ -2,9 +2,9 @@
 
 ## 🔭 I’m currently working on
 
--Applications and content for VisitPensacola.com
+- Applications and content for VisitPensacola.com
 
--The pelican passport https://www.visitpensacola.com/passports/pelican-passport/
+- The pelican passport https://www.visitpensacola.com/passports/pelican-passport/
 <!--
 **sbgulfcoast/sbgulfcoast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
